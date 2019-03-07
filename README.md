@@ -11,7 +11,7 @@
 * NeedsCompilation:	no
 * CRAN checks:	RKUM results
 
-Flavor                                    |  	 Version	| Tinstall |	Tcheck |	Ttotal |	Status |	Flags
+Flavor                                    |  	 Version	| T<sub>install</sub> |	T<sub>check</sub> |	T<sub>total</sub> |	Status |	Flags
 ------                                    |    ------- | -------  | ------ | ------ | ------ | -----                           
 [r-devel-linux-x86_64-debian-clang](https://cran.r-project.org/web/checks/check_flavors.html#r-devel-linux-x86_64-debian-clang)     |     0.1.1  |  2.98	   | 31.41	 | 34.39	 |   [OK](https://www.r-project.org/nosvn/R.check/r-devel-linux-x86_64-debian-clang/RKUM-00check.html)   |                
 [r-devel-linux-x86_64-debian-gcc  ](https://cran.r-project.org/web/checks/check_flavors.html#r-devel-linux-x86_64-debian-gcc)     |     0.1.1	 |  2.44	   | 24.01	 | 26.45	 |   [OK](https://www.r-project.org/nosvn/R.check/r-devel-linux-x86_64-debian-gcc/RKUM-00check.html)   |           
